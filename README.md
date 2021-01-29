@@ -1,6 +1,6 @@
 # Indonesian Hate Speech Classification
 
-Program akan melakukan klasifikasi terhadap tweet yang dianggap ujaran kebencian (Hate Speech) atau tidak (Non Hate Speech).
+Program akan melakukan klasifikasi terhadap tweet berbahasa Indonesia yang dianggap ujaran kebencian (Hate Speech) atau tidak (Non Hate Speech).
 
 Dataset yang digunakan berasal dari repositori berikut [id-hatespeech-detection](https://github.com/ialfina/id-hatespeech-detection).
 
